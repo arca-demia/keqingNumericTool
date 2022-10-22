@@ -6,3 +6,6 @@ https://arca.live/b/genshinacademia
 https://arca.live/b/genshinacademia/59664431
 
 https://arca.live/b/genshinacademia/60571407
+
+
+파이썬 코드는 keqingNumericTool 폴더에
